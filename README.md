@@ -4,11 +4,6 @@ Tic Tac toe using min max algorithm and selecting the best possible outcome at
 every step/decision by the help of alpha beta pruning. Initially Initialize alpha as
 infinity and beta as infinity and then choose the best possible outcome.
 
-## Display
-- ![image](https://github.com/Harris730/Tic-tac-toe/assets/128912747/270de6cf-7512-4c28-b3dc-bfb73ef5b7b9)
-- ![image](https://github.com/Harris730/Tic-tac-toe/assets/128912747/ab9d06ae-81bf-41e9-bd12-ec3387627da1)
-
-
 ## Features
 - A function is use for evaluation of winner if any or draw by checking the board state in 3 patterns if any (X/O).
 - A function to make decision for next step on basis of heuristic value calculated on basis Tree.
